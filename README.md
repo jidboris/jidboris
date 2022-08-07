@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jidboris
-- 👀 I’m interested in Software engineering back end
-- 🌱 I’m currently learning ...
+- 👀 I’m a backend software engineer
+- 🌱 I work with node.js
 - 💞️ I’m looking to collaborate .
-- 📫 How to reach me 07030234999
+- 📫 How to reach me 07054368882
 
 <!---
 jidboris/jidboris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
